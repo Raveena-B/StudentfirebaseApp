@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">firebaseApp</string>
+    <string name="et_ID">Enter Your ID</string>
+    <string name="et_Name">Enter Your Name</string>
+    <string name="et_address">Enter Your Address</string>
+    <string name="et_contactNO">Enter Your Contact No</string>
+    <string name="btnSave">Save</string>
+    <string name="btnShow">Show</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnDelete">Delete</string>
+    <string name="et_name">Enter Your Name</string>
+</resources>
